@@ -10,12 +10,12 @@ export default function Contact(props) {
         <div>
             <div
                 className='ui raised very padded text container segment' style={{ marginTop: '80px' }}>
-                <Link to='/card/alex' className='ui header'>Hi, Alex!</Link>
+                <Link to='/alex' className='ui header'>Hi, Alex!</Link>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, nihil. Consequuntur praesentium reiciendis iure soluta porro consequatur illum fugit, vitae consectetur eveniet est numquam adipisci quibusdam quaerat deleniti laborum expedita?</p>
             </div>
             <div
                 className='ui raised very padded text container segment' style={{ marginTop: '80px' }}>
-                <Link to='card/wilma' className='ui header'>Hi, Wilma!</Link>
+                <Link to='/wilma' className='ui header'>Hi, Wilma!</Link>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam, nihil. Consequuntur praesentium reiciendis iure soluta porro consequatur illum fugit, vitae consectetur eveniet est numquam adipisci quibusdam quaerat deleniti laborum expedita?</p>
             </div>
         </div>
