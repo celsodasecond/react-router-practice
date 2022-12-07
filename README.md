@@ -10,6 +10,10 @@ The concept behind this app (react-routers) is to study React Routers.
 ## What did I learned ?
 
 - The use of React Routers
+- Used Link and NavLinks instead of anchor tags
+- NavLinks has the 'active' tag in class.
+- Programmatic Redirects
+- Route Parameters using Link tags
 
 ## How to Build ?
 
