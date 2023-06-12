@@ -14,7 +14,7 @@ export default class Card extends Component {
     return (
         <div
             className='ui raised very padded text container segment' style={{ marginTop: '80px' }}>
-            <h3 className='ui header'>{ user }</h3>
+            <h3 className='ui header'>{ user.toUpperCase() }</h3>
         </div>
     )
   }
