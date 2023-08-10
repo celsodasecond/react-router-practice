@@ -1,4 +1,4 @@
-# React Practice on Routers ![forthebadge](https://badges.aleen42.com/src/react.svg)
+# React Practice on Routers, Portals, and Redux ![forthebadge](https://badges.aleen42.com/src/react.svg)
 
 ## App Screenshot
 
