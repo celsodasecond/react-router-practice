@@ -5,7 +5,7 @@
 
 ## What is this Project ?
 
-The concept behind this app (react-routers) is to study React Routers.
+The concept behind this app (react-routers) is to study React Routers, Portals, and [Redux](https://redux.js.org/).
 
 ## What did I learned ?
 
