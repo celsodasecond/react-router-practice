@@ -23,7 +23,8 @@ class Card extends Component {
 			return (
 				<div
 					className="ui raised very padded text container segment"
-					style={{ marginTop: "80px" }}>
+					style={{ marginTop: "80px" }}
+          key={user.id}>
 					<h3 className="ui header">{user.name}</h3>
 					<p>{user.email}</p>
 					<button
